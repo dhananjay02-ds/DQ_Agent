@@ -1,0 +1,7 @@
+Column,DQ_Score,Issues
+Species,85,Duplicates present in the data; Limited unique values may indicate low variability
+SepalWidthCm,90,"Potential outliers: Values outside the expected range for Sepal Width in cm (e.g., values less than 2.0 or greater than 4.5 may be considered outliers).; Format errors: Sample values are represented as strings instead of floats, which may indicate a formatting issue in the dataset."
+PetalWidthCm,90,"Potential outliers: Values like 0.3 and 2.3 may be considered outliers depending on the context of the dataset.; Format error: Sample values are represented as strings instead of floats, which may lead to processing issues."
+Id,95,No major issues
+PetalLengthCm,95,No major issues
+SepalLengthCm,95,No major issues
